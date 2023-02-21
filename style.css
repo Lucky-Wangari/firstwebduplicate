@@ -1,0 +1,122 @@
+body{
+    background-color: lightblue;
+    /* padding: 10px; */
+    margin: 5%;
+
+}
+#imge3{
+    float: left;
+    
+}
+nav{
+    padding-right: 10px;
+    margin-left: 50%;
+    float: right;
+    display: flexbox;
+}
+#ab{
+padding-right: 5px;
+}
+#how{
+padding-right: 5px;
+}
+.tit2{
+width: 50%;
+display: flex;
+justify-content: right;
+gap: 10px;
+margin-left: 40px;
+/* margin-bottom: 40px; */
+}
+#imge1{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.txt1{
+text-align: center;
+}
+.buttons{
+    border: solid;
+    background-color: rgb(115, 185, 231); 
+    text-align: center;  
+}
+.heading1{
+    text-align: center;
+    margin: 40px;
+}
+.backimg{
+    width: 100%;
+}
+#ab{
+    text-decoration: none;
+}
+#how{
+    text-decoration: none;
+}
+#tit{
+    /* float: left; */
+    text-decoration: none;
+}
+.containerA{
+    background-color: white;
+    border: 15px solid whitesmoke;
+    border-radius: 2%;
+}
+.ship{
+    background-color: rgb(204, 233, 243);
+    border-radius: 10px;
+    width: 25%;
+
+}
+.scan{
+    background-color: rgb(197, 235, 240);
+    border-radius: 10px;
+    width: 25%;
+    
+}
+.active{
+    background-color: rgb(245, 199, 206);
+    border-radius: 10px;
+    width: 25%;
+
+}
+#h4{
+    text-align: center;
+}
+#h5{
+    text-align: center;
+}
+#h6{
+    text-align: center;
+}
+.logo{
+    display: flex;
+    gap: 43px;
+    margin-left: 70px;
+    
+}
+.photos{
+    margin-left: 12px;
+    display: flex;
+    gap: 5px;
+}
+#button2{
+    background-color: rgb(112, 170, 236);
+    margin-left: 90px;
+}
+.deliveries{
+    justify-content: end;
+    gap: 15px;
+    display: flex;
+    margin-bottom: 30px;
+}
+.join{
+    margin-left: 90px;
+}
+.muchmore{
+    margin-left: 90px;
+}
+.word{
+    color: green;
+}
