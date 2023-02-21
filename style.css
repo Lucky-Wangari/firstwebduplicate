@@ -8,11 +8,12 @@ body{
     float: left;
     
 }
-nav{
+.nav{
     padding-right: 10px;
     margin-left: 50%;
     float: right;
     display: flexbox;
+    font-size: smaller;
 }
 #ab{
 padding-right: 5px;
@@ -27,14 +28,17 @@ justify-content: right;
 gap: 10px;
 margin-left: 40px;
 /* margin-bottom: 40px; */
+font-size: small;
 }
 #imge1{
     padding-left: 10px;
     padding-top: 10px;
+    
 }
 
 .txt1{
 text-align: center;
+font-size: small;
 }
 .buttons{
     border: solid;
@@ -107,9 +111,10 @@ text-align: center;
 }
 .deliveries{
     justify-content: end;
-    gap: 15px;
+    gap: 10px;
     display: flex;
     margin-bottom: 30px;
+    margin-left: 320px;
 }
 .join{
     margin-left: 90px;
@@ -119,4 +124,22 @@ text-align: center;
 }
 .word{
     color: green;
+}
+.finale{
+    display: flex;
+    font-size: small;
+    margin-top: 50px;
+
+}
+#line1{
+    color: aqua;
+    border: solid 1px;
+}
+#line2{
+    color: orange;
+    border: solid 1px;
+}
+#line3{
+    color: green;
+    border: solid 1px;
 }
